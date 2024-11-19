@@ -4,7 +4,6 @@
 - **Basic Operations**: Addition, subtraction, multiplication, and division.
 - **Advanced Functions**: Square roots, exponents, and trigonometric functions.
 - **Memory Operations**: Store, recall, and clear memory values.
-- **User-Friendly Interface**: Intuitive design for easy navigation.
 - **Real-Time Results**: Instant calculation results as you type.
 
 ## Development Environment
